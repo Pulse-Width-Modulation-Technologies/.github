@@ -1,6 +1,6 @@
 ## Pulse-Width Modulation Industries Corporation Technologies ( P-WM ICT )
 
-<p align="center"><img src="https://skillicons.dev/icons?i=vscode,raspberrypi,py,opencv,java,idea,discord,cs,arduino"></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=vscode,arch,raspberrypi,py,opencv,idea,cs,arduino,cpp,visualstudio"></p>
 <hr/>
 
 <!--
