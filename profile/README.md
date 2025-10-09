@@ -1,5 +1,5 @@
-## Pulse-Width Modulation Industries Corporation Technologies ( P-WM ICT )
-## Технологии Корпорации Идустриализации «Широтно-импульсная модуляция» ( ТКИ «Широтно-импульсная модуляция» )
+## Pulse-Width Modulation Industries Corporation Technologies
+## Технологии Корпорации Идустриализации «Широтно-импульсная модуляция»
 
 
 <hr/>
