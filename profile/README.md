@@ -1,7 +1,8 @@
 # Pulse-Width Modulation Intercontinental Vertically-Consolidated Industrial and Cyber-Electronic Technologies Corporation for Advanced Automation, Research and Development, Strategic Logistics, and Organizational Deinstitutionalization Global Holdings Limited Liability Company
 
-# Общество с ограниченной ответственностью «Глобальные холдинги Межконтинентальной Вертикально-консолидированной Корпорации “Широтно-импульсная модуляция” передовых технологий промышленной и киберэлектронной автоматизации, научных исследований и разработок, стратегической логистики и организационной деинституционализации»
+# Pulse-width Modulation IVCICETCAARDSLODGH LLC
 
+# Общество с ограниченной ответственностью «Глобальные холдинги Межконтинентальной Вертикально-консолидированной Корпорации “Широтно-импульсная модуляция” передовых технологий промышленной и киберэлектронной автоматизации, научных исследований и разработок, стратегической логистики и организационной деинституционализации»
 
 <hr/>
 <p align="center"><img src="https://skillicons.dev/icons?i=vscode,arch,raspberrypi,py,opencv,idea,cs,arduino,cpp,visualstudio"></p>
