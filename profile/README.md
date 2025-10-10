@@ -1,14 +1,11 @@
-# Pulse-Width Modulation International Industrial Automation and Cyber-Electronics Technologies Research Development Manufacturing Logistics and Strategic Operations Global Holdings Conglomerate Limited Liability Company
-# Pulse-Width Modulation IIACETRDMLSOGHC LLC
+# Pulse-Width Modulation Intercontinental Vertically-Consolidated Industrial and Cyber-Electronic Technologies Corporation for Advanced Automation, Research and Development, Strategic Logistics, and Organizational Deinstitutionalization Global Holdings Limited Liability Company
 
-# Общество с Ограниченной Ответственностью "Глобальные холдинги Международного Конгломерата "Широтно-импульсная модуляция" технологий промышленной автоматизации и киберэлектроники Исследования и разработки Производства Логистики и Стратегических Операций"
-# ООО "ГхМК «Широтно-Импульсная Модуляция» ТПАиКИиРПЛиСО"
+# Общество с ограниченной ответственностью «Глобальные холдинги Межконтинентальной Вертикально-консолидированной Корпорации “Широтно-импульсная модуляция” передовых технологий промышленной и киберэлектронной автоматизации, научных исследований и разработок, стратегической логистики и организационной деинституционализации»
 
 
 <hr/>
 <p align="center"><img src="https://skillicons.dev/icons?i=vscode,arch,raspberrypi,py,opencv,idea,cs,arduino,cpp,visualstudio"></p>
 <hr/>
-
 <!--
 
 **Here are some ideas to get you started:**
