@@ -1,5 +1,5 @@
-## Pulse-Width Modulation Industries Corporation Technologies
-## Технологическая Корпорация Идустриализации «Широтно-импульсная модуляция»
+## Pulse-Width Modulation Industries Corporation Technologies Company Limited
+## Компания С Ограниченной Ответственностью "Технологическая Корпорация Идустриализации «Широтно-импульсная модуляция»"
 
 
 <hr/>
