@@ -1,5 +1,5 @@
-## Pulse-Width Modulation International Industrial Automation and Cyber-Electronics Technologies Research Development Manufacturing Logistics and Strategic Operations Global Holdings Conglomerate Corporation Limited
-## Компания с Ограниченной Ответственностью "Глобальные холдинги Международного Конгломерата "Широтно-импульсная модуляция" технологий промышленной автоматизации и киберэлектроники Исследования и разработки Производства Логистики и Стратегических Операций"
+# Pulse-Width Modulation International Industrial Automation and Cyber-Electronics Technologies Research Development Manufacturing Logistics and Strategic Operations Global Holdings Conglomerate Corporation Limited
+# Компания с Ограниченной Ответственностью "Глобальные холдинги Международного Конгломерата "Широтно-импульсная модуляция" технологий промышленной автоматизации и киберэлектроники Исследования и разработки Производства Логистики и Стратегических Операций"
 
 
 <hr/>
