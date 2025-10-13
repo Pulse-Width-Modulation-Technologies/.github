@@ -5,7 +5,7 @@
 # Общество с ограниченной ответственностью «Глобальные холдинги Межконтинентальной Вертикально-консолидированной Корпорации “Широтно-импульсная модуляция” передовых технологий промышленной и киберэлектронной автоматизации, научных исследований и разработок, стратегической логистики и организационной деинституционализации»
 
 <hr/>
-<p align="center"><img src="https://skillicons.dev/icons?i=vscode,arch,raspberrypi,py,opencv,idea,cs,arduino,cpp,visualstudio"></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=vscode,arch,raspberrypi,py,opencv,cs,arduino,cpp,visualstudio"></p>
 <hr/>
 <!--
 
